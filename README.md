@@ -14,7 +14,7 @@ The project showcases:
 
 ### Demo
 
-A live demo of the project can be found [here](#).
+A live demo of the project can be found [here](https://svelte-trap.vercel.app/).
 
 ### Open Source
 
